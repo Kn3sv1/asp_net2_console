@@ -1,0 +1,11 @@
+C:\Users\r_satanovskyi\projects\asp_net2_console\bin\Debug\netcoreapp2.2\asp_net2_console.deps.json
+C:\Users\r_satanovskyi\projects\asp_net2_console\bin\Debug\netcoreapp2.2\asp_net2_console.runtimeconfig.json
+C:\Users\r_satanovskyi\projects\asp_net2_console\bin\Debug\netcoreapp2.2\asp_net2_console.runtimeconfig.dev.json
+C:\Users\r_satanovskyi\projects\asp_net2_console\bin\Debug\netcoreapp2.2\asp_net2_console.dll
+C:\Users\r_satanovskyi\projects\asp_net2_console\bin\Debug\netcoreapp2.2\asp_net2_console.pdb
+C:\Users\r_satanovskyi\projects\asp_net2_console\obj\Debug\netcoreapp2.2\asp_net2_console.csprojAssemblyReference.cache
+C:\Users\r_satanovskyi\projects\asp_net2_console\obj\Debug\netcoreapp2.2\asp_net2_console.csproj.CoreCompileInputs.cache
+C:\Users\r_satanovskyi\projects\asp_net2_console\obj\Debug\netcoreapp2.2\asp_net2_console.AssemblyInfoInputs.cache
+C:\Users\r_satanovskyi\projects\asp_net2_console\obj\Debug\netcoreapp2.2\asp_net2_console.AssemblyInfo.cs
+C:\Users\r_satanovskyi\projects\asp_net2_console\obj\Debug\netcoreapp2.2\asp_net2_console.dll
+C:\Users\r_satanovskyi\projects\asp_net2_console\obj\Debug\netcoreapp2.2\asp_net2_console.pdb

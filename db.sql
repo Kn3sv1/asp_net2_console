@@ -1,0 +1,24 @@
+ -- select TABLE_NAME from INFORMATION_SCHEMA.TABLES;
+USE EFCoreDemo2;
+CREATE TABLE Employees (
+   EmployeesId INT NOT NULL PRIMARY KEY,
+Name [NVARCHAR](50)  NOT NULL,
+Location [NVARCHAR](50)  NOT NULL
+);
+GO
+-- Insert rows into table 'Employees'
+INSERT INTO Employees
+   ([EmployeesId],[Name],[Location])
+VALUES
+   ( 1, N'Jared', N'Australia'),
+   ( 2, N'Nikita', N'India'),
+   ( 3, N'Tom', N'Germany'),
+   ( 4, N'Jake', N'United States')
+GO
+-- Query the total count of employees
+SELECT COUNT(*) as EmployeeCount FROM Employees;
+-- Query all employee information
+
+SELECT e.EmployeesId, e.Name, e.Location 
+FROM dbo.Employees as e
+GO
