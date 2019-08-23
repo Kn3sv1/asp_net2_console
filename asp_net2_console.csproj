@@ -12,8 +12,7 @@
       <PrivateAssets>all</PrivateAssets>
     </PackageReference>
   </ItemGroup>
-  <ItemGroup>
+  <!--ItemGroup>
     <DotNetCliToolReference Include="Microsoft.EntityFrameworkCore.Tools.DotNet" Version="2.2.6" />
-  </ItemGroup>
-
+  </ItemGroup-->
 </Project>
